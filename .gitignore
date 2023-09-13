@@ -1,0 +1,6 @@
+# build dir
+build-uno/
+
+# clangd
+.cache/
+compile_commands.json
